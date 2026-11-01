@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Lovers</title>
+</head>
+
+<body style="background-color: lime; color: deeppink; font-family: Comic Sans MS;">
+
+    <h1 style="background-color: yellow; color: blue; text-align: center; font-size: 45px; border: 8px dashed red;">
+        WELCOME TO FOOD LOVERS!!!
+    </h1>
+
+    <h2 style="background-color: hotpink; color: yellow; text-align: center; border: 5px dotted blue;">
+        WEIRDEST FOODIE COMBO!
+    </h2>
+
+    <marquee style="background-color: black; color: lime; font-size: 25px;">
+        WARNING!!! WEIRD FOOD COMBINATIONS AHEAD!!! 
+    </marquee>
+
+    <center>
+        <h1 style="color: purple; text-decoration: underline;">
+            ARE YOU READY TO TRY???
+        </h1>
+
+        <p style="font-size: 22px; background-color: cyan;">
+            Welcome to the weirdest food corner ever!!!
+        </p>
+
+        <h2 style="color: red; background-color: yellow;">
+            LET'S CHECK OUT THESE COMBOS!!!
+        </h2>
+
+        <div style="background-color: orange; border: 10px ridge blue; padding: 20px; margin: 15px;">
+
+            <h1 style="color: blue;">🍟 + 🍫 = ???</h1>
+
+            <h1 style="color: purple;">🍦 + 🥒 = ???</h1>
+
+            <h1 style="color: red;">🍉 + 🧀 = ???</h1>
+
+            <h1 style="color: deeppink;">🍕 + 🍍 = ???</h1>
+
+            <h1 style="color: green;">🤢 EWWW! WHAT A COMBO!</h1>
+
+        </div>
+
+        <h1 style="background-color: red; color: yellow; border: 7px groove blue;">
+            EWWWEEY, YUCKYY!!!
+        </h1>
+
+        <h2 style="background-color: cyan; color: purple;">
+            BUT WAITTT!!!
+        </h2>
+
+        <h1 style="color: blue; background-color: pink;">
+            I GUESS YOULL LOVEE IT!!!
+        </h1>
+
+        <h1 style="background-color: yellow; color: red; border: 8px double purple;">
+            HIGHLY RECOMMENDED!!!!
+        </h1>
+
+        <h1 style="color: lime; background-color: blue; font-size: 40px;">
+            MOUTHWATERING, YUMM :D
+        </h1>
+
+        <marquee direction="right" style="background-color: hotpink; color: blue; font-size: 25px;">
+            THANK YOU FOR VISITING!!! COME AGAIN!!! 
+        </marquee>
+
+    </center>
+
+    <hr style="border: 5px dashed red;">
+
+    <center>
+        <p style="color: purple; font-size: 20px;">
+            Made with LOVE and WEIRD FOOD IDEAS!!!
+        </p>
+    </center>
+
+</body>
+</html>
